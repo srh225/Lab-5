@@ -28,7 +28,7 @@ module Multi_Seg_Driver_tb;
 
     wire [3:0] sseg_a_o;
 
-    wire [6:0] ssseg_c_o;
+    wire [6:0] sseg_c_o;
 
    
 
